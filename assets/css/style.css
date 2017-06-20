@@ -1,1 +1,48 @@
 /* Holiii otra vez */
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Merriweather Sans', sans-serif;
+}
+nav p{
+	font-size: 30px;
+		padding-left: 40px;
+}
+.navbar-default{
+	border-bottom: 1px solid #e04646;
+	border-radius: 0;
+}
+.dot{
+	color: red;
+}
+
+.fa-search{
+	background-color: #e04646;
+	color: whitesmoke;
+	padding: 15px 15px;
+	border-radius: 5px;
+}
+
+.red, .fa-star, .fa-star-o{
+	color: #e04646;
+}
+
+.fa-facebook, .fa-twitter, .fa-rss{
+	padding: 15px 25px;
+	border: 0;
+	color: whitesmoke;
+	font-size: 20px;
+}
+
+.fa-rss{
+	background-color: #ffc800;
+}
+.fa-twitter{
+	background-color: skyblue;
+}
+.fa-facebook{
+	background-color: blue;
+}
+
+
+
